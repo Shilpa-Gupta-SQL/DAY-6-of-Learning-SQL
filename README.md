@@ -19,4 +19,4 @@ Found 2nd highest salary using LIMIT … OFFSET
 
 ✔ COUNT Logic
 Difference between COUNT(*) and COUNT(column)
-Counted NULLs using IF(email IS NULL, 1, 0)
+Counted NULLs using IF(email IS NULL, 1, 0) 
